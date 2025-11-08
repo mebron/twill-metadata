@@ -2,6 +2,16 @@
 
 All notable changes to `twill-metadata` will be documented in this file.
 
+## v1.5.0 - 2025-11-08
+
+### What's Changed
+
+* Updated PHP requirement to ^8.2 (Laravel 12 requirement)
+* Updated artesaos/seotools to ^1.3 (Laravel 12 compatible)
+* Updated documentation to clarify Laravel 12 readiness pending Twill support
+
+**Note:** This package is prepared for Laravel 12 compatibility. Full Laravel 12 support will be available once Twill 3.x adds official Laravel 12 support.
+
 ## v1.4.1 - 2024-05-01
 
 ### What's Changed

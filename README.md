@@ -10,7 +10,9 @@ This package offers a simple way to add SEO metadata to your [Twill](https://twi
 ![default and expanded views of twill metadata fieldset](https://github.com/cwsdigital/twill-metadata/blob/master/Twill-Metadata-Preview.jpg)
 
 ## Requirements
-This package requires Laravel 8 or higher, PHP8 or higher, and Twill 3.0 or higher.
+This package requires PHP 8.2 or higher and Twill 3.0 or higher.
+
+**Laravel 12 Support:** This package is ready for Laravel 12 once Twill adds official support. Currently supports Laravel 9-11 through Twill 3.x.
 
 If you are looking for support for Twill 2 then make sure you use [v1.3.0](https://github.com/cwsdigital/twill-metadata/releases/tag/v1.3.0)
 
